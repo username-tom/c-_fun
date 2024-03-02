@@ -1,0 +1,17 @@
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\bin\Debug\net8.0-windows\HelloWorld.exe
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\bin\Debug\net8.0-windows\HelloWorld.deps.json
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\bin\Debug\net8.0-windows\HelloWorld.runtimeconfig.json
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\bin\Debug\net8.0-windows\HelloWorld.dll
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\bin\Debug\net8.0-windows\HelloWorld.pdb
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.csproj.GenerateResource.cache
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.AssemblyInfo.cs
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.sourcelink.json
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.dll
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\refint\HelloWorld.dll
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.pdb
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.genruntimeconfig.cache
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\ref\HelloWorld.dll
+C:\Users\tomwu\OneDrive\Documents\GitHub\c-_fun\HelloWorld\HelloWorld\obj\Debug\net8.0-windows\HelloWorld.RollADice.resources
